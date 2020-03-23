@@ -1,0 +1,23 @@
+{
+  "id": "1709444",
+  "name": "vue_shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8777250",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "8777038",
+      "name": "lock",
+      "font_class": "lock",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    }
+  ]
+}
