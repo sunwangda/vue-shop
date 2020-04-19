@@ -7,7 +7,7 @@ import './assets/css/global.css'
 import './assets/fonts/iconfont.css'
 
 import axios from 'axios'
-axios.defaults.baseURL = 'localhost:8082/hf-user'
+axios.defaults.baseURL = 'http://localhost:8082/hf-user'
 Vue.prototype.$http = axios
 
 Vue.config.productionTip = false
